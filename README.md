@@ -169,6 +169,4 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ---
 
-**Modified and Enhanced By**: *Your Name*
 
-**GitHub**: [Your GitHub Profile](https://github.com/yourusername)
